@@ -6,7 +6,7 @@
 
 ## Description
 
-First application that allows a user to search for doctors by name or medical issue.
+Application that allows a user to search for doctors by name or medical issue.
 
 _ The home page of the application.
 ![Home](src/img/home.png)
