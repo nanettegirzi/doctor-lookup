@@ -4,4 +4,20 @@
 
 body {
   text-align: center;
+  font-family: Futura;
+  color: grey;
+  background-color: whitesmoke;
+}
+
+.jumbotron {
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 20px;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-family: Futura;
+  font-size: 75px;
 }
