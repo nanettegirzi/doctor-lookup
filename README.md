@@ -21,7 +21,7 @@ _ Doctor name search for Smith
 * $ clone this repo
 * $ Go to www.developer.betterdoctor.com.org and login/create an account
 * $ Get an API key
-* $ Create a .env file in the root folder with API_KEY=[Your API_Key goes here]
+* $ Create a .env file in the root folder with exports.apiKey="Your API_Key goes here"
 * $ cd to DoctorLookup
 * $ npm install
 * $ npm run start
